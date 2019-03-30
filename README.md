@@ -1,1 +1,1 @@
-#Finding addresses of various things in the PE file format
+Finding addresses of various things in the PE file format
